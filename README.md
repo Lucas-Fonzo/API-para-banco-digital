@@ -46,4 +46,4 @@ Sinta-se à vontade para contribuir com o projeto! Você pode seguir os seguinte
 
 ## Vídeo
 
-[![API Banco Digital](https://ytcards.demolab.com/?id=tFyjhiydrFc&title=API+Banco+Digital&lang=pt&timestamp=1714615202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=736 "5 things I wish I knew before studying Computer Science")](https://www.youtube.com/watch?v=tFyjhiydrFc)
+[![API Banco Digital](https://ytcards.demolab.com/?id=tFyjhiydrFc&title=API+Banco+Digital&lang=pt&timestamp=1714611602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=5&duration=736 "5 things I wish I knew before studying Computer Science")](https://www.youtube.com/watch?v=tFyjhiydrFc)
