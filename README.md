@@ -45,3 +45,5 @@ Sinta-se à vontade para contribuir com o projeto! Você pode seguir os seguinte
 5. Envie um pull request.
 
 ## Vídeo
+
+[![API Banco Digital](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
