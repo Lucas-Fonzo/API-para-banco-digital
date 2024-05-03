@@ -73,9 +73,9 @@ const deletarConta = (req, res) => {
     if (Number(conta.saldo) !== 0) {
         return res.status(400).json({ mensagem: "A conta só pode ser removida se o saldo for zero!" })
     }
-    contas = contas.filter((conta) => {
-        return conta.numeroConta !== Number(numeroConta);
-    });
+    let indice = contas.indexOf(conta)
+    contas.splice(indice, 1);
+
     return res.status(200).send()
 }
 
